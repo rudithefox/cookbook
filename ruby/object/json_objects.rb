@@ -11,5 +11,8 @@ characters = {
     "Wins": 108
 }}.to_json
 
-json_char = JSON.parse(characters)
-puts json_char{Dota2}
+#object = JSON.parse(json, object_class: OpenStruct)
+#puts object.response.body.type
+
+object = JSON.parse(characters, object_class: OpenStruct)
+puts object.Dota2
