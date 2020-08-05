@@ -1,3 +1,5 @@
+# Basic variable assignment
+
 string="String";
 int=1;
 bool=True;

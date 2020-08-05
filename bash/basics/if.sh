@@ -1,4 +1,8 @@
-num=89;
+# Simple 'if else-if else' example. 
+
+#num=70;
+#num=101;
+num=20;
 
 if [ $num -gt 100 ]
 then
