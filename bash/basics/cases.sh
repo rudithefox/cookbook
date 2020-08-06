@@ -8,4 +8,4 @@ case $option in
 ;;
 2)  echo "Case 2";
 ;;
-esac
+esac;

@@ -6,7 +6,7 @@ arr=(One Two Three Four)
 for n in ${arr[*]}
 do
     printf "$n \n";
-done
+done;
 
 # While loop with counter
 count=0;
@@ -15,4 +15,4 @@ while [ $count -lt ${#arr[*]} ]
 do
     printf "${arr[$count]} \n";
     count=$(( $count + 1 ))
-done
+done;

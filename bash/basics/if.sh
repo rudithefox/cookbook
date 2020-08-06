@@ -14,4 +14,4 @@ then
 echo "Your number is 70"
 else
 echo "Not greater than 100, but not 70 either."
-fi
+fi;
