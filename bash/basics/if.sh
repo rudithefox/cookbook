@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Simple 'if else-if else' example. 
 
 #num=70;

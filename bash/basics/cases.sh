@@ -1,5 +1,6 @@
-# Cases based on a variable.
+#!/bin/bash
 
+# Cases based on a variable.
 # Change option variable to another case to change outcome. 
 option=1;
 case $option in

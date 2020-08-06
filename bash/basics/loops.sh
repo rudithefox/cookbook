@@ -1,3 +1,5 @@
+#!/bin/bash
+
 arr=(One Two Three Four)
 
 # For loop

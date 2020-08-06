@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Basic variable assignment
 string="String";
 int=1;

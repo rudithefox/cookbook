@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # $? Expands to the exit status of the most recently executed foreground pipeline.
 # 0 conventially means success, anything else is usually a failure
 
