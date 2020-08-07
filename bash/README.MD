@@ -15,13 +15,13 @@ Bash, or Borne-Again Shell, is the Unix shell/interpreter which replaced (sh). T
 
 ## Commands
 
-- exigrep: Useful for searching exim mail logs. 
-- w: Check load, logged in users and their current process command.
-- dig: Domain information groper. Resolve records. Check rDNS.
-- sed: Steam editor. Use regex to do things like finding and replacing .
 - less: Less is more, but better.
+- dig: Domain information groper. Resolve records. Check rDNS.
 - tail: Check the last few lines of a file. Useful for checking logs. Use '-f' to watch logs.
+- sed: Steam editor. Use regex to do things like finding and replacing .
 - env: Print environment variables.
+- w: Check load, logged in users and their current process command.
+- exigrep: Useful for searching exim mail logs. 
 
 ## Misc
 
@@ -48,5 +48,4 @@ Using the following will print your previous command to the terminal and it as s
 
 ### Use the same arguments as the previous command
 
-Use '!*' along with a command to pass the previous command's arguments. 
-  `ls /var/log` & `cd !*`
+Use '!*' along with a command to pass the previous command's arguments à la `ls /var/log` & `cd !*`.
