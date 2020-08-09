@@ -1,5 +1,8 @@
 # Cookbook
-Code snippets for various programming languages and libraries
+
+Code snippets for various programming languages and libraries. In my case this is also becoming a repository of general usage for tools associated with the languages and libraies in question. 
+May need to look at seperating these. 
+
 ## The Cookbook Method
 
 A cookbook in the programming context is collection of tiny programs that each demonstrate a particular programming concept. The Cookbook Method is the process of learning a programming language by building up a repository of small programs that implement specific programming concepts. Starting with a Hello World program and building the knowledge piece by piece on top of that.
