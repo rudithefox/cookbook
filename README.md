@@ -1,7 +1,6 @@
 # Cookbook
 
-Code snippets for various programming languages and libraries. In my case this is also becoming a repository of general usage for tools associated with the languages and libraies in question. 
-May need to look at seperating these. 
+Information and code snippets for various programming languages and libraries. 
 
 ## The Cookbook Method
 
@@ -48,5 +47,5 @@ Everyone has different goals with programming so identify topics relevant to you
 * Drawing 3D graphics to screen
 * GUI programming
 
-## Credits:
+## Original Credits:
 * https://github.com/DevDungeon/Cookbook
